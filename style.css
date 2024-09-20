@@ -1,0 +1,60 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f5;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: #ffffff;
+            padding: 20px;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+        label {
+            color: #333;
+            font-weight: bold;
+        }
+        input[type="text"],
+        input[type="email"],
+        input[type="number"],
+        input[type="date"],
+        select {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0 20px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        input[type="checkbox"] {
+            margin-right: 10px;
+        }
+        input[type="submit"] {
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+        .checkbox-group {
+            margin-bottom: 20px;
+            background-color: #e6f7ff;
+            padding: 10px;
+            border: 1px solid #b3e0ff;
+            border-radius: 5px;
+        }
+        .checkbox-group label {
+            color: #0066cc;
+        }
