@@ -1,1 +1,2 @@
-![Uploading image.png…]()
+![Reg form](image.png)
+
